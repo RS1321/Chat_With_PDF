@@ -1,0 +1,17 @@
+Ignore the virtual environment folder
+
+venv/
+env/
+
+Ignore the secret keys file (CRITICAL)
+
+.env
+
+Ignore compiled python files
+
+pycache/
+*.pyc
+
+Ignore system files
+
+.DS_Store
